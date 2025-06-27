@@ -76,9 +76,10 @@ Minha visão é aproveitar ao máximo o potencial dessas duas áreas para propor
 
 | Projeto | Descrição |
 |--------|-----------|
-| 📌 [SeuProjeto1](https://github.com/mqmagaly/SeuProjeto1) | Breve descrição do projeto 1 |
-| 📌 [SeuProjeto2](https://github.com/mqmagaly/SeuProjeto2) | Breve descrição do projeto 2 |
-| 📌 [SeuProjeto3](https://github.com/mqmagaly/SeuProjeto3) | Breve descrição do projeto 3 |
+| 📌 [SENAI - DEVstart](https://github.com/mqmagaly/dados-atletas) | dadosAtletas |
+| 📌 [SENAI - DEVstart](https://github.com/mqmagaly/notas-atletas) | Breve descrição do projeto 2 |
+| 📌 [SENAI - DEVstart](https://github.com/mqmagaly/viagens--landing-page) | Uma landing page responsiva desenvolvida para uma agência de viagens fictícia. O objetivo é apresentar os serviços, pacotes turísticos e facilitar o contato com clientes interessados. |
+| 📌 [SENAI - DEVstart](https://github.com/mqmagaly/posting--page) | Este projeto simula um blog funcional no navegador, utilizando HTML, CSS e JavaScript puro. Ele permite que o usuário crie posts dinamicamente, com integração à API pública [JSONPlaceholder] https://jsonplaceholder.typicode.com/).|
 
 ---
 
@@ -90,11 +91,14 @@ Minha visão é aproveitar ao máximo o potencial dessas duas áreas para propor
 
 ---
 
+## 🌐 Idiomas
+Espanhol Português Inglês 
+
+---
+
 ## 📫 Contato
 
 [![Email](https://img.shields.io/badge/E--mail-mqmagaly@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mqmagaly@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-mqmagaly-181717?style=for-the-badge&logo=github)](https://github.com/mqmagaly)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mqmagaly-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mqmagaly/)
 
 ---
 
